@@ -4,8 +4,8 @@
 
 **Final-year B.Tech Computer Science student | Java, Spring Boot & SQL | Looking for entry-level software developer roles**
 
-[![LinkedIn]([https://www.linkedin.com/in/anushka-singh-student](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN))
-[![Email]([anushkasingh0705@gmail.com](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
 
 </div>
 
