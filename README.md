@@ -17,7 +17,7 @@
 - 💻 I build full-stack projects to learn by doing — frontend, backend, and database together
 - 🔭 Currently strengthening my skills in Java, Spring Boot, and SQL
 - 🌱 Open to internship and entry-level software developer opportunities
-- 📫 Reach me at YOUR-EMAIL@example.com
+- 📫 Reach me at anushkasingh0705@gmail.com
 
 ### 🛠️ Tech Stack
 
