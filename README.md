@@ -15,7 +15,7 @@
 
 - 🎓 Final-year Computer Science student, graduating in 2027
 - 💻 I build full-stack projects to learn by doing — frontend, backend, and database together
-- 🔭 Currently strengthening my skills in Java, Spring Boot, and SQL
+- 🔭 Currently strengthening my skills in Java, Salesforce ,HTML,CSS ,Javascript and SQL
 - 🌱 Open to internship and entry-level software developer opportunities
 - 📫 Reach me at anushkasingh0705@gmail.com
 
